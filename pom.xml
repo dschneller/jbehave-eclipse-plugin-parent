@@ -98,6 +98,8 @@
 	</build>
 	<modules>
 		<module>../jbehave-eclipse-plugin</module>
-		<module>../jbehave-eclipse-plugin.tests</module>
+<!--		<module>../jbehave-eclipse-plugin.tests</module> -->
+		<module>../jbehave-eclipse-plugin.feature</module>
+		<module>../jbehave-eclipse-plugin.updatesite</module>
 	</modules>
 </project>
